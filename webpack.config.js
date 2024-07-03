@@ -2,7 +2,8 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        exam: './exam.js'
+        exam: './exam.js',
+        tabularquestion: './tabularquestion.js'
     },
     output: {
         path: path.resolve(__dirname, './build'),
