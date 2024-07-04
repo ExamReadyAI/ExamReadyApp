@@ -3,6 +3,7 @@ const path = require('path');
 module.exports = {
     entry: {
         exam: './exam.js',
+        exam2: './exam2.js',
         tabularquestion: './tabularquestion.js'
     },
     output: {
