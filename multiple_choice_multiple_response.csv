@@ -1,0 +1,386 @@
+Left-side Question Prompt,Nurse's Note,Vital Signs,Question Instruction,Answer Choices,Correct Answers,Explanation,Difficulty Level,Avg. Peers Score,Time Taken,Subject,Lesson,Client Need Area,Client Need Topic,Question Type,Additional Info,Hint 1,Hint 2,Hint 3,Hint 4,Hint 5,Question Template
+The nurse is caring for a ten-year-old diagnosed with gastroenteritis.,"The client’s parents indicate that he has been vomiting for the past twelve hours and has been unable to keep any fluids or foods down. The client’s parents report that a similar illness has circulated in his school for several weeks. The assessment showed a child who was lethargic and fully oriented. The skin was hot, and the eyes appeared to have sunken in appearance. Capillary refill time was > 2 seconds. The client was communicative and reported no pain. Bowel sounds were active in all four quadrants, with no pain endorsed upon palpation. The client has no known medical history, is up to date with all immunizations, and takes no medications.",The vital signs are not explicitly mentioned in the image.,"Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Measure the abdominal girth
+2). Instruct the avoidance of sweetened drinks
+3). Insertion of nasogastric tube (NGT)
+4). Start a 24-hour urine collection
+5). Provide a mask to the parents
+6). Obtain an order to insert a peripheral vascular access device","1). Measure the abdominal girth
+3). Insertion of nasogastric tube (NGT)
+4). Start a 24-hour urine collection
+5). Provide a mask to the parents","Based on the client's symptoms and assessment, the focus should be on addressing dehydration and monitoring the child's condition. Insertion of a nasogastric tube (NGT) is essential for administering fluids and medications if the child cannot keep anything down orally. A peripheral vascular access device is necessary for intravenous fluids and medications. Other options, like providing a mask to parents, are not directly relevant to the immediate care needed.",Moderate,70%,10:00 minutes,Pediatrics,Gastroenteritis management,Health Promotion and Maintenance,"Gastroenteritis, Dehydration",Multiple Choice - Multiple Response,Ensure understanding of the management of pediatric gastroenteritis and related complications.,Focus on dehydration and fluid management,Consider nasogastric tube for hydration,Peripheral access device may be needed,Monitor child's condition closely,Avoid unnecessary masks for parents,multiple_choice_multiple_response
+The nurse is caring for a 65-year-old male with a history of COPD.,The client reports increased shortness of breath over the past two days. He has been using his rescue inhaler more frequently. Breath sounds are diminished with prolonged expiration. The client appears anxious.,"BP: 130/85, HR: 98, RR: 28, O2 Sat: 88% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed bronchodilator
+2). Encourage pursed-lip breathing
+3). Initiate oxygen therapy
+4). Monitor respiratory status
+5). Educate on smoking cessation","1). Administer prescribed bronchodilator
+2). Encourage pursed-lip breathing
+3). Initiate oxygen therapy
+5). Educate on smoking cessation",The focus is on improving oxygenation and easing breathing. Bronchodilators and oxygen therapy are essential. Pursed-lip breathing helps reduce air trapping.,Moderate,75%,10:00 minutes,Adult Health,Respiratory Management,Physiological Integrity,COPD exacerbation,Multiple Choice - Multiple Response,Ensure understanding of COPD management and emergency interventions.,Improve oxygenation,Use bronchodilators,Oxygen therapy is crucial,Pursed-lip breathing helps,Provide smoking cessation education,multiple_choice_multiple_response
+The nurse is caring for a postpartum client who delivered a healthy infant 24 hours ago.,The client reports severe perineal pain and an inability to urinate. The perineum appears swollen and bruised.,"BP: 120/80, HR: 85, RR: 18, Temp: 37°C","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed analgesics
+2). Apply an ice pack to the perineum
+3). Encourage ambulation
+4). Monitor urinary output
+5). Assess for signs of infection","1). Administer prescribed analgesics
+2). Apply an ice pack to the perineum
+5). Assess for signs of infection","The focus is on pain management, reducing swelling, and ensuring urinary function. Analgesics and ice packs help with pain and swelling.",Easy,80%,8:00 minutes,Maternal Newborn,Postpartum Care,Physiological Integrity,Perineal care,Multiple Choice - Multiple Response,Ensure understanding of postpartum complications and care.,Manage pain,Reduce swelling with ice,Check for infection signs,Encourage ambulation cautiously,Monitor urinary output,multiple_choice_multiple_response
+The nurse is caring for a 50-year-old client with type 2 diabetes.,The client reports dizziness and shakiness. Blood glucose reading is 50 mg/dL. The client appears pale and diaphoretic.,"BP: 110/70, HR: 95, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer 15g of fast-acting carbohydrate
+2). Recheck blood glucose in 15 minutes
+3). Monitor for improvement in symptoms
+4). Provide a complex carbohydrate snack
+5). Notify the healthcare provider","2). Recheck blood glucose in 15 minutes
+3). Monitor for improvement in symptoms
+4). Provide a complex carbohydrate snack
+5). Notify the healthcare provider","The focus is on treating hypoglycemia. Fast-acting carbohydrates will quickly raise blood sugar, followed by complex carbs to maintain levels.",Moderate,70%,12:00 minutes,Adult Health,Diabetes Management,Physiological Integrity,Hypoglycemia treatment,Multiple Choice - Multiple Response,Ensure understanding of hypoglycemia management in diabetic clients.,Treat hypoglycemia,Fast-acting carbs are urgent,Recheck glucose after 15 minutes,Provide complex carbs for stability,Notify healthcare provider if needed,multiple_choice_multiple_response
+The nurse is caring for a client with schizophrenia experiencing auditory hallucinations.,"The client states, ""The voices are telling me to harm myself."" The client appears anxious and is pacing the room.","BP: 125/80, HR: 90, RR: 22","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Ensure the client is in a safe environment
+2). Notify the healthcare provider
+3). Administer prescribed antipsychotic medication
+4). Provide a calm and quiet environment
+5). Encourage the client to express feelings","1). Ensure the client is in a safe environment
+3). Administer prescribed antipsychotic medication
+4). Provide a calm and quiet environment
+5). Encourage the client to express feelings",The focus is on safety and managing hallucinations. Ensuring a safe environment and administering medication are crucial.,Moderate,65%,15:00 minutes,Mental Health,Psychosis Management,Safety and Infection Control,Auditory hallucinations,Multiple Choice - Multiple Response,Ensure understanding of managing acute psychotic episodes.,Ensure safety,Notify healthcare provider,Administer antipsychotic medication,Maintain calm environment,Encourage expression of feelings,multiple_choice_multiple_response
+The nurse is caring for a 70-year-old client with heart failure.,The client reports increased shortness of breath and swelling in the legs. The client has gained 5 pounds in the last three days. Lung sounds reveal crackles bilaterally.,"BP: 140/90, HR: 92, RR: 24, O2 Sat: 90% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed diuretics
+2). Monitor daily weights
+3). Elevate the legs
+4). Restrict fluid intake
+5). Educate on low-sodium diet","1). Administer prescribed diuretics
+2). Monitor daily weights
+5). Educate on low-sodium diet",The focus is on reducing fluid overload and improving breathing. Diuretics and fluid restriction are essential.,Moderate,72%,10:00 minutes,Adult Health,Cardiac Management,Physiological Integrity,Heart failure management,Multiple Choice - Multiple Response,Ensure understanding of heart failure exacerbation management.,Address fluid overload,Administer diuretics,Monitor daily weights,Educate on low-sodium diet,Elevate the legs as needed,multiple_choice_multiple_response
+The nurse is caring for a 35-year-old female with suspected appendicitis.,"The client reports severe abdominal pain in the lower right quadrant, nausea, and vomiting. The abdomen is tender to palpation with rebound tenderness.","BP: 130/85, HR: 100, RR: 22, Temp: 38.3°C","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed diuretics
+2). Monitor daily weights
+3). Elevate the legs
+4). Restrict fluid intake
+5). Educate on low-sodium diet","1). Administer prescribed diuretics
+3). Elevate the legs
+4). Restrict fluid intake",The focus is on preparing for surgery and managing pain. Keeping the client NPO is essential for surgery preparation.,Moderate,78%,8:00 minutes,Adult Health,Gastrointestinal Management,Physiological Integrity,Appendicitis,Multiple Choice - Multiple Response,Ensure understanding of preoperative and postoperative care for appendicitis.,Prepare for surgery,Pain management is key,Keep client NPO,Monitor for complications,Reassure and educate the client,multiple_choice_multiple_response
+The nurse is caring for a 22-year-old client with a newly diagnosed seizure disorder.,The client experienced a tonic-clonic seizure lasting 2 minutes. The client is now drowsy but arousable.,"BP: 120/75, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Keep the client NPO
+2). Prepare for possible surgery
+3). Administer prescribed analgesics
+4). Monitor for signs of perforation
+5). Educate on postoperative care","1). Keep the client NPO
+2). Prepare for possible surgery
+4). Monitor for signs of perforation
+5). Educate on postoperative care",The focus is on ensuring safety and airway patency post-seizure. Administering medication and educating on precautions are crucial.,Moderate,70%,12:00 minutes,Neurology,Seizure Management,Physiological Integrity,Seizure disorder,Multiple Choice - Multiple Response,Ensure understanding of immediate and long-term seizure management.,Safety post-seizure,Ensure airway patency,Monitor for complications,Administer medications,Educate on seizure precautions,multiple_choice_multiple_response
+The nurse is caring for a 45-year-old client with hypertension.,The client reports a headache and blurred vision. Blood pressure readings over the past week have been consistently high.,"BP: 160/100, HR: 88, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Ensure airway patency
+2). Place the client in a side-lying position
+3). Administer prescribed anticonvulsants
+4). Monitor neurological status
+5). Educate on seizure precautions","1). Ensure airway patency
+2). Place the client in a side-lying position
+4). Monitor neurological status",The focus is on managing high blood pressure and preventing complications. Medication adherence and dietary changes are essential.,Moderate,68%,10:00 minutes,Adult Health,Hypertension Management,Health Promotion and Maintenance,Hypertension,Multiple Choice - Multiple Response,Ensure understanding of hypertension management and lifestyle modifications.,Manage hypertension symptoms,Ensure airway patency,Monitor neurological status,Educate on lifestyle changes,Encourage medication adherence,multiple_choice_multiple_response
+The nurse is caring for a 60-year-old client post-myocardial infarction.,The client reports chest pain radiating to the left arm. The client appears anxious and is diaphoretic.,"BP: 140/90, HR: 110, RR: 24","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed antihypertensive medication
+2). Educate on the importance of medication adherence
+3). Monitor blood pressure regularly
+4). Encourage a low-sodium diet
+5). Schedule a follow-up appointment","1). Administer prescribed antihypertensive medication
+3). Monitor blood pressure regularly
+4). Encourage a low-sodium diet
+5). Schedule a follow-up appointment",The focus is on managing chest pain and preventing further cardiac damage. Nitroglycerin and oxygen therapy are essential.,High,60%,15:00 minutes,Adult Health,Cardiac Management,Physiological Integrity,Myocardial infarction,Multiple Choice - Multiple Response,Ensure understanding of acute MI management and interventions.,Manage chest pain,Administer antihypertensives,Monitor BP regularly,Educate on low-sodium diet,Schedule follow-up appointments,multiple_choice_multiple_response
+The nurse is caring for a 5-year-old child with asthma.,The child has been experiencing increased wheezing and shortness of breath. The child’s mother reports frequent nighttime coughing.,"BP: 100/60, HR: 110, RR: 28, O2 Sat: 92% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed nitroglycerin
+2). Monitor cardiac rhythm
+3). Provide oxygen therapy
+4). Reassure the client
+5). Prepare for possible transfer to the ICU","1). Administer prescribed nitroglycerin
+2). Monitor cardiac rhythm
+4). Reassure the client
+5). Prepare for possible transfer to the ICU",The focus is on improving breathing and preventing asthma attacks. Bronchodilators and education on triggers are crucial.,Moderate,75%,12:00 minutes,Pediatrics,Asthma Management,Health Promotion and Maintenance,Pediatric asthma,Multiple Choice - Multiple Response,Ensure understanding of pediatric asthma management and prevention.,Improve asthma symptoms,Provide oxygen therapy,Use bronchodilators,Educate on triggers,Monitor respiratory status,multiple_choice_multiple_response
+The nurse is caring for a 30-year-old client with a suspected urinary tract infection (UTI).,"The client reports dysuria, urgency, and lower abdominal pain. The urine appears cloudy with a foul odor.","BP: 120/80, HR: 85, RR: 18, Temp: 38°C","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed bronchodilators
+2). Monitor respiratory status
+3). Educate on asthma triggers
+4). Provide a peak flow meter
+5). Ensure adherence to medication regimen","1). Administer prescribed bronchodilators
+2). Monitor respiratory status
+3). Educate on asthma triggers
+4). Provide a peak flow meter",The focus is on diagnosing and treating the UTI. Antibiotics and fluid intake are essential.,Easy,80%,10:00 minutes,Adult Health,Renal Management,Physiological Integrity,Urinary tract infection,Multiple Choice - Multiple Response,Ensure understanding of UTI management and prevention.,Diagnose and treat UTI,Provide antibiotics,Encourage fluid intake,Educate on hygiene,Monitor for complications,multiple_choice_multiple_response
+The nurse is caring for a 40-year-old client with newly diagnosed type 1 diabetes.,"The client reports frequent urination, excessive thirst, and weight loss. Blood glucose reading is 300 mg/dL.","BP: 120/80, HR: 90, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Obtain a urine sample for culture and sensitivity
+2). Administer prescribed antibiotics
+3). Encourage increased fluid intake
+4). Educate on proper perineal hygiene
+5). Monitor for signs of pyelonephritis","1). Obtain a urine sample for culture and sensitivity
+3). Encourage increased fluid intake
+4). Educate on proper perineal hygiene
+5). Monitor for signs of pyelonephritis",The focus is on managing high blood glucose and educating on diabetes management. Insulin administration and dietary education are crucial.,Moderate,70%,12:00 minutes,Adult Health,Diabetes Management,Health Promotion and Maintenance,Type 1 diabetes,Multiple Choice - Multiple Response,Ensure understanding of type 1 diabetes management and education.,Manage high blood glucose,Insulin administration needed,Educate on dietary changes,Monitor for complications,Provide support and education,multiple_choice_multiple_response
+The nurse is caring for a 55-year-old client with chronic kidney disease.,"The client reports fatigue, swelling in the legs, and decreased urine output. The client is on hemodialysis three times a week.","BP: 140/90, HR: 85, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Obtain a urine sample for culture and sensitivity
+2). Administer prescribed antibiotics
+3). Encourage increased fluid intake
+4). Educate on proper perineal hygiene
+5). Monitor for signs of pyelonephritis","
+2). Administer prescribed antibiotics
+3). Encourage increased fluid intake
+5). Monitor for signs of pyelonephritis",The focus is on managing kidney disease and preventing complications. Monitoring renal function and adhering to dialysis schedules are essential.,Moderate,68%,12:00 minutes,Adult Health,Renal Management,Physiological Integrity,Chronic kidney disease,Multiple Choice - Multiple Response,Ensure understanding of chronic kidney disease management and dialysis.,Monitor renal function,Manage kidney disease symptoms,Adhere to dialysis schedules,Educate on fluid restrictions,Check for complications,multiple_choice_multiple_response
+The nurse is caring for a 25-year-old client with an acute asthma exacerbation.,The client reports severe shortness of breath and chest tightness. The client has been using a rescue inhaler every hour.,"BP: 130/85, HR: 110, RR: 30, O2 Sat: 88% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Monitor electrolytes and renal function
+2). Educate on fluid and dietary restrictions
+3). Assess for signs of fluid overload
+4). Administer prescribed medications
+5). Schedule hemodialysis sessions","1). Monitor electrolytes and renal function
+3). Assess for signs of fluid overload
+5). Schedule hemodialysis sessions",The focus is on improving oxygenation and managing the asthma attack. Bronchodilators and oxygen therapy are essential.,High,65%,15:00 minutes,Adult Health,Respiratory Management,Physiological Integrity,Asthma exacerbation,Multiple Choice - Multiple Response,Ensure understanding of acute asthma management and emergency interventions.,Reduce asthma symptoms,Provide bronchodilators,Use oxygen therapy,Administer medications,Monitor for improvement,multiple_choice_multiple_response
+The nurse is caring for a 35-year-old client with deep vein thrombosis (DVT).,The client reports pain and swelling in the left leg. The leg is warm to touch and appears reddened.,"BP: 125/80, HR: 90, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed bronchodilators
+2). Provide oxygen therapy
+3). Monitor respiratory status
+4). Educate on asthma action plan
+5). Assess for response to treatment","1). Administer prescribed bronchodilators
+2). Provide oxygen therapy
+3). Monitor respiratory status
+5). Assess for response to treatment",The focus is on preventing complications and managing symptoms. Anticoagulants and leg elevation are essential.,Moderate,70%,12:00 minutes,Adult Health,Vascular Management,Physiological Integrity,Deep vein thrombosis,Multiple Choice - Multiple Response,Ensure understanding of DVT management and prevention.,DVT management,Administer anticoagulants,Elevate leg,Monitor for embolism,Educate on ambulation,multiple_choice_multiple_response
+The nurse is caring for a 70-year-old client with Alzheimer's disease.,The client has become increasingly confused and agitated. The family reports difficulty managing care at home.,"BP: 120/75, HR: 80, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed anticoagulants
+2). Elevate the affected leg
+3). Monitor for signs of pulmonary embolism
+4). Educate on the importance of ambulation
+5). Assess for pain and swelling","1). Administer prescribed anticoagulants
+3). Monitor for signs of pulmonary embolism
+4). Educate on the importance of ambulation",The focus is on managing agitation and ensuring safety. A calm environment and medication management are crucial.,Moderate,68%,12:00 minutes,Adult Health,Neurology Management,Psychosocial Integrity,Alzheimer's disease,Multiple Choice - Multiple Response,Ensure understanding of Alzheimer's disease management and family education.,Ensure safety,Create a calm environment,Administer medications,Educate family,Monitor stress levels,multiple_choice_multiple_response
+The nurse is caring for a 50-year-old client with rheumatoid arthritis.,"The client reports joint pain and stiffness, especially in the morning. The client is on long-term NSAIDs and DMARDs.","BP: 120/80, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Provide a calm and structured environment
+2). Administer prescribed medications
+3). Educate the family on disease progression
+4). Assess for caregiver stress
+5). Monitor for safety","2). Administer prescribed medications
+3). Educate the family on disease progression
+4). Assess for caregiver stress",The focus is on managing pain and maintaining joint function. Pain medications and physical therapy are essential.,Moderate,70%,10:00 minutes,Adult Health,Musculoskeletal Management,Physiological Integrity,Rheumatoid arthritis,Multiple Choice - Multiple Response,Ensure understanding of rheumatoid arthritis management and joint protection.,Joint pain management,Administer pain medications,Educate on joint protection,Assess for infection signs,Promote physical therapy,multiple_choice_multiple_response
+The nurse is caring for a 60-year-old client post-stroke.,The client has right-sided weakness and difficulty speaking. The client is currently undergoing rehabilitation therapy.,"BP: 140/90, HR: 80, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed pain medications
+2). Educate on joint protection techniques
+3). Encourage physical therapy exercises
+4). Monitor for medication side effects
+5). Assess for signs of infection","1). Administer prescribed pain medications
+2). Educate on joint protection techniques
+5). Assess for signs of infection",The focus is on supporting rehabilitation and preventing complications. Assisting with ADLs and providing therapy exercises are essential.,Moderate,68%,15:00 minutes,Neurology,Stroke Management,Physiological Integrity,Post-stroke care,Multiple Choice - Multiple Response,Ensure understanding of post-stroke rehabilitation and care.,Support rehabilitation,Assist with ADLs,Encourage therapy exercises,Monitor for complications,Educate the client and family,multiple_choice_multiple_response
+The nurse is caring for a 45-year-old client with chronic obstructive pulmonary disease (COPD).,The client reports increased shortness of breath and productive cough. The client has a history of smoking.,"BP: 130/85, HR: 95, RR: 28, O2 Sat: 88% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Assist with activities of daily living
+2). Educate on the use of assistive devices
+3). Monitor for signs of aspiration
+4). Provide speech therapy exercises
+5). Assess for depression","1). Assist with activities of daily living
+2). Educate on the use of assistive devices
+3). Monitor for signs of aspiration",The focus is on improving oxygenation and managing COPD symptoms. Bronchodilators and smoking cessation are essential.,Moderate,70%,12:00 minutes,Adult Health,Respiratory Management,Health Promotion and Maintenance,COPD management,Multiple Choice - Multiple Response,Ensure understanding of COPD management and lifestyle modifications.,Improve COPD symptoms,Use bronchodilators,Oxygen therapy,Educate on smoking cessation,Provide support,multiple_choice_multiple_response
+The nurse is caring for a 50-year-old client with liver cirrhosis.,"The client reports jaundice, ascites, and fatigue. The client has a history of alcohol abuse.","BP: 120/80, HR: 90, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed bronchodilators
+2). Encourage smoking cessation
+3). Monitor respiratory status
+4). Provide oxygen therapy
+5). Educate on breathing exercises","1). Administer prescribed bronchodilators
+3). Monitor respiratory status
+4). Provide oxygen therapy",The focus is on managing symptoms and preventing complications. Monitoring liver function and alcohol cessation are essential.,High,65%,15:00 minutes,Adult Health,Hepatic Management,Physiological Integrity,Liver cirrhosis,Multiple Choice - Multiple Response,Ensure understanding of liver cirrhosis management and complications.,Liver cirrhosis management,Monitor liver function,Educate on alcohol cessation,Provide nutritional support,Manage symptoms,multiple_choice_multiple_response
+The nurse is caring for a 28-year-old female client with systemic lupus erythematosus (SLE).,"The client reports joint pain, fatigue, and a butterfly rash on the face. The client is on immunosuppressive therapy.","BP: 120/80, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Monitor liver function tests
+2). Educate on alcohol cessation
+3). Administer prescribed diuretics
+4). Assess for signs of hepatic encephalopathy
+5). Provide nutritional support","1). Monitor liver function tests
+2). Educate on alcohol cessation
+5). Provide nutritional support",The focus is on managing symptoms and preventing complications. Medication adherence and sun protection are essential.,Moderate,70%,12:00 minutes,Adult Health,Immune System Management,Physiological Integrity,Systemic lupus erythematosus,Multiple Choice - Multiple Response,Ensure understanding of SLE management and prevention of complications.,Manage SLE symptoms,Administer medications,Educate on sun protection,Assess renal function,Provide regular follow-ups,multiple_choice_multiple_response
+The nurse is caring for a 68-year-old client with Parkinson's disease.,The client reports increased difficulty with mobility and frequent falls. The client’s spouse states that the client has been more forgetful lately.,"BP: 130/85, HR: 88, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed medications
+2). Educate on sun protection
+3). Monitor for signs of infection
+4). Encourage regular follow-up visits
+5). Assess for signs of renal involvement","1). Administer prescribed medications
+2). Educate on sun protection
+4). Encourage regular follow-up visits
+5). Assess for signs of renal involvement",The focus is on managing symptoms and preventing falls. Medications and fall precautions are essential.,Moderate,70%,12:00 minutes,Neurology,Parkinson's Disease Management,Physiological Integrity,Parkinson's disease,Multiple Choice - Multiple Response,Ensure understanding of Parkinson's disease management and fall prevention.,Prevent falls,Administer medications,Implement fall precautions,Encourage physical therapy,Assess cognitive changes,multiple_choice_multiple_response
+The nurse is caring for a 45-year-old client with rheumatoid arthritis.,The client reports morning stiffness and joint pain that improves with movement. The client is on methotrexate and NSAIDs.,"BP: 120/80, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed antiparkinsonian medications
+2). Implement fall precautions
+3). Encourage physical therapy
+4). Educate on safety measures at home
+5). Assess for cognitive changes","2). Implement fall precautions
+3). Encourage physical therapy
+5). Assess for cognitive changes",The focus is on managing pain and maintaining joint function. Medications and exercise are essential.,Moderate,70%,10:00 minutes,Adult Health,Musculoskeletal Management,Physiological Integrity,Rheumatoid arthritis,Multiple Choice - Multiple Response,Ensure understanding of rheumatoid arthritis management and joint protection.,Manage RA symptoms,Provide pain medications,Educate on joint protection,Encourage exercise,Monitor for side effects,multiple_choice_multiple_response
+The nurse is caring for a 52-year-old client with chronic obstructive pulmonary disease (COPD).,The client reports increased shortness of breath and a productive cough. The client has a 30-year history of smoking.,"BP: 130/85, HR: 95, RR: 28, O2 Sat: 88% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed medications
+2). Educate on joint protection techniques
+3). Encourage regular exercise
+4). Monitor for side effects of medications
+5). Assess for signs of infection","2). Educate on joint protection techniques
+4). Monitor for side effects of medications
+5). Assess for signs of infection",The focus is on improving oxygenation and managing COPD symptoms. Bronchodilators and smoking cessation are essential.,Moderate,70%,12:00 minutes,Adult Health,Respiratory Management,Health Promotion and Maintenance,COPD management,Multiple Choice - Multiple Response,Ensure understanding of COPD management and lifestyle modifications.,Improve COPD symptoms,Administer bronchodilators,Provide oxygen therapy,Monitor respiratory status,Educate on lifestyle modifications,multiple_choice_multiple_response
+The nurse is caring for a 60-year-old client post-stroke.,The client has right-sided weakness and difficulty speaking. The client is currently undergoing rehabilitation therapy.,"BP: 140/90, HR: 80, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed bronchodilators
+2). Encourage smoking cessation
+3). Monitor respiratory status
+4). Provide oxygen therapy
+5). Educate on breathing exercises","1). Administer prescribed bronchodilators
+2). Encourage smoking cessation
+3). Monitor respiratory status
+4). Provide oxygen therapy",The focus is on supporting rehabilitation and preventing complications. Assisting with ADLs and providing therapy exercises are essential.,Moderate,68%,15:00 minutes,Neurology,Stroke Management,Physiological Integrity,Post-stroke care,Multiple Choice - Multiple Response,Ensure understanding of post-stroke rehabilitation and care.,Support rehabilitation,Assist with ADLs,Encourage exercises,Monitor for complications,Educate the client and family,multiple_choice_multiple_response
+The nurse is caring for a 25-year-old female client with systemic lupus erythematosus (SLE).,"The client reports joint pain, fatigue, and a butterfly rash on the face. The client is on immunosuppressive therapy.","BP: 120/80, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Assist with activities of daily living
+2). Educate on the use of assistive devices
+3). Monitor for signs of aspiration
+4). Provide speech therapy exercises
+5). Assess for depression","2). Educate on the use of assistive devices
+3). Monitor for signs of aspiration
+4). Provide speech therapy exercises",The focus is on managing symptoms and preventing complications. Medication adherence and sun protection are essential.,Moderate,70%,12:00 minutes,Adult Health,Immune System Management,Physiological Integrity,Systemic lupus erythematosus,Multiple Choice - Multiple Response,Ensure understanding of SLE management and prevention of complications.,Manage SLE symptoms,Administer medications,Educate on sun protection,Assess renal function,Encourage follow-up visits,multiple_choice_multiple_response
+The nurse is caring for a 50-year-old client with liver cirrhosis.,"The client reports jaundice, ascites, and fatigue. The client has a history of alcohol abuse.","BP: 120/80, HR: 90, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed medications
+2). Educate on sun protection
+3). Monitor for signs of infection
+4). Encourage regular follow-up visits
+5). Assess for signs of renal involvement","1). Administer prescribed medications
+3). Monitor for signs of infection
+4). Encourage regular follow-up visits
+5). Assess for signs of renal involvement",The focus is on managing symptoms and preventing complications. Monitoring liver function and alcohol cessation are essential.,High,65%,15:00 minutes,Adult Health,Hepatic Management,Physiological Integrity,Liver cirrhosis,Multiple Choice - Multiple Response,Ensure understanding of liver cirrhosis management and complications.,Liver cirrhosis management,Monitor liver function,Educate on alcohol cessation,Provide nutritional support,Manage symptoms,multiple_choice_multiple_response
+The nurse is caring for a 55-year-old client with chronic kidney disease.,"The client reports fatigue, swelling in the legs, and decreased urine output. The client is on hemodialysis three times a week.","BP: 140/90, HR: 85, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Monitor liver function tests
+2). Educate on alcohol cessation
+3). Administer prescribed diuretics
+4). Assess for signs of hepatic encephalopathy
+5). Provide nutritional support","1). Monitor liver function tests
+2). Educate on alcohol cessation
+3). Administer prescribed diuretics",The focus is on managing kidney disease and preventing complications. Monitoring renal function and adhering to dialysis schedules are essential.,Moderate,68%,12:00 minutes,Adult Health,Renal Management,Physiological Integrity,Chronic kidney disease,Multiple Choice - Multiple Response,Ensure understanding of chronic kidney disease management and dialysis.,Manage kidney disease,Monitor renal function,Administer medications,Adhere to dialysis schedules,Educate on complications,multiple_choice_multiple_response
+The nurse is caring for a 35-year-old client with deep vein thrombosis (DVT).,The client reports pain and swelling in the left leg. The leg is warm to touch and appears reddened.,"BP: 125/80, HR: 90, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Monitor electrolytes and renal function
+2). Educate on fluid and dietary restrictions
+3). Assess for signs of fluid overload
+4). Administer prescribed medications
+5). Schedule hemodialysis sessions","1). Monitor electrolytes and renal function
+3). Assess for signs of fluid overload
+4). Administer prescribed medications",The focus is on preventing complications and managing symptoms. Anticoagulants and leg elevation are essential.,Moderate,70%,12:00 minutes,Adult Health,Vascular Management,Physiological Integrity,Deep vein thrombosis,Multiple Choice - Multiple Response,Ensure understanding of DVT management and prevention.,Manage DVT,Administer anticoagulants,Elevate leg,Monitor for embolism,Educate on ambulation,multiple_choice_multiple_response
+The nurse is caring for a 40-year-old client with newly diagnosed type 1 diabetes.,"The client reports frequent urination, excessive thirst, and weight loss. Blood glucose reading is 300 mg/dL.","BP: 120/80, HR: 90, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed anticoagulants
+2). Elevate the affected leg
+3). Monitor for signs of pulmonary embolism
+4). Educate on the importance of ambulation
+5). Assess for pain and swelling","2). Elevate the affected leg
+3). Monitor for signs of pulmonary embolism
+5). Assess for pain and swelling",The focus is on managing high blood glucose and educating on diabetes management. Insulin administration and dietary education are crucial.,Moderate,70%,12:00 minutes,Adult Health,Diabetes Management,Health Promotion and Maintenance,Type 1 diabetes,Multiple Choice - Multiple Response,Ensure understanding of type 1 diabetes management and education.,High blood glucose management,Administer insulin,Monitor levels,Educate on diet,Provide support,multiple_choice_multiple_response
+The nurse is caring for a 70-year-old client with Alzheimer's disease.,The client has become increasingly confused and agitated. The family reports difficulty managing care at home.,"BP: 120/75, HR: 80, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed insulin
+2). Monitor blood glucose levels
+3). Educate on carbohydrate counting
+4). Provide dietary guidelines
+5). Schedule regular follow-up appointments","1). Administer prescribed insulin
+2). Monitor blood glucose levels
+4). Provide dietary guidelines",The focus is on managing agitation and ensuring safety. A calm environment and medication management are crucial.,Moderate,68%,12:00 minutes,Adult Health,Neurology Management,Psychosocial Integrity,Alzheimer's disease,Multiple Choice - Multiple Response,Ensure understanding of Alzheimer's disease management and family education.,Ensure safety,Create a calm environment,Administer medications,Educate family,Monitor for agitation,multiple_choice_multiple_response
+The nurse is caring for a 28-year-old client with a new diagnosis of multiple sclerosis (MS).,"The client reports fatigue, weakness, and blurred vision. The client is concerned about how the disease will affect daily life.","BP: 120/80, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Provide a calm and structured environment
+2). Administer prescribed medications
+3). Educate the family on disease progression
+4). Assess for caregiver stress
+5). Monitor for safety","2). Administer prescribed medications
+3). Educate the family on disease progression
+4). Assess for caregiver stress",The focus is on managing symptoms and supporting the client. Medication adherence and energy conservation are crucial.,Moderate,70%,12:00 minutes,Neurology,Multiple Sclerosis Management,Physiological Integrity,Multiple sclerosis,Multiple Choice - Multiple Response,Ensure understanding of MS management and support.,Manage MS symptoms,Administer medications,Educate on disease progression,Assess caregiver stress,Provide support groups,multiple_choice_multiple_response
+The nurse is caring for a 45-year-old client with newly diagnosed hypertension.,The client reports occasional headaches and dizziness. Blood pressure readings have been consistently elevated.,"BP: 160/100, HR: 88, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed medications
+2). Educate on energy conservation techniques
+3). Provide information on support groups
+4). Monitor for exacerbations
+5). Encourage physical therapy","2). Educate on energy conservation techniques
+3). Provide information on support groups
+4). Monitor for exacerbations",The focus is on managing high blood pressure and preventing complications. Medication adherence and dietary changes are essential.,Moderate,68%,10:00 minutes,Adult Health,Hypertension Management,Health Promotion and Maintenance,Hypertension,Multiple Choice - Multiple Response,Ensure understanding of hypertension management and lifestyle modifications.,Hypertension management,Administer medications,Educate on lifestyle,Monitor for complications,Provide dietary guidelines,multiple_choice_multiple_response
+The nurse is caring for a 55-year-old client with coronary artery disease (CAD).,The client reports chest pain with exertion and shortness of breath. The client is on long-term aspirin and beta-blockers.,"BP: 130/85, HR: 78, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed antihypertensive medication
+2). Educate on the importance of medication adherence
+3). Monitor blood pressure regularly
+4). Encourage a low-sodium diet
+5). Schedule a follow-up appointment","1). Administer prescribed antihypertensive medication
+3). Monitor blood pressure regularly
+5). Schedule a follow-up appointment",The focus is on managing chest pain and preventing complications. Nitroglycerin and lifestyle modifications are essential.,Moderate,70%,12:00 minutes,Adult Health,Cardiac Management,Physiological Integrity,Coronary artery disease,Multiple Choice - Multiple Response,Ensure understanding of CAD management and lifestyle modifications.,CAD management,Administer medications,Monitor BP regularly,Encourage lifestyle changes,Schedule follow-ups,multiple_choice_multiple_response
+The nurse is caring for a 65-year-old client with heart failure.,The client reports increased shortness of breath and swelling in the legs. The client has gained 5 pounds in the last three days. Lung sounds reveal crackles bilaterally.,"BP: 140/90, HR: 92, RR: 24, O2 Sat: 90% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed nitroglycerin
+2). Monitor cardiac rhythm
+3). Educate on lifestyle modifications
+4). Encourage cardiac rehabilitation
+5). Assess for medication side effects","1). Administer prescribed nitroglycerin
+2). Monitor cardiac rhythm
+4). Encourage cardiac rehabilitation
+5). Assess for medication side effects",The focus is on reducing fluid overload and improving breathing. Diuretics and fluid restriction are essential.,Moderate,72%,10:00 minutes,Adult Health,Cardiac Management,Physiological Integrity,Heart failure management,Multiple Choice - Multiple Response,Ensure understanding of heart failure exacerbation management.,Manage heart failure,Administer diuretics,Monitor daily weights,Educate on low-sodium diet,Restrict fluids,multiple_choice_multiple_response
+The nurse is caring for a 32-year-old client with newly diagnosed HIV.,"The client reports fatigue, weight loss, and frequent infections. The client is starting antiretroviral therapy.","BP: 120/80, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed diuretics
+2). Monitor daily weights
+3). Elevate the legs
+4). Restrict fluid intake
+5). Educate on low-sodium diet","1). Administer prescribed diuretics
+3). Elevate the legs
+4). Restrict fluid intake
+5). Educate on low-sodium diet",The focus is on managing HIV and preventing complications. Medication adherence and support are crucial.,Moderate,70%,12:00 minutes,Adult Health,Immune System Management,Health Promotion and Maintenance,HIV management,Multiple Choice - Multiple Response,Ensure understanding of HIV management and support.,HIV management,Administer medications,Educate on adherence,Provide support groups,Encourage regular follow-ups,multiple_choice_multiple_response
+The nurse is caring for a 25-year-old client with suspected meningitis.,"The client reports severe headache, neck stiffness, and sensitivity to light. The client has a fever and appears disoriented.","BP: 130/85, HR: 100, RR: 22, Temp: 39°C","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed antiretroviral medications
+2). Educate on medication adherence
+3). Monitor for side effects
+4). Provide information on support groups
+5). Encourage regular follow-up visits","1). Administer prescribed antiretroviral medications
+2). Educate on medication adherence
+4). Provide information on support groups",The focus is on diagnosing and treating meningitis. A lumbar puncture and antibiotics are essential.,High,65%,15:00 minutes,Adult Health,Neurology Management,Safety and Infection Control,Meningitis,Multiple Choice - Multiple Response,Ensure understanding of meningitis management and prevention of complications.,Treat meningitis,Lumbar puncture needed,Administer antibiotics,Implement seizure precautions,Educate on completing treatment,multiple_choice_multiple_response
+The nurse is caring for a 40-year-old client with a suspected myocardial infarction (MI).,The client reports severe chest pain radiating to the left arm and jaw. The client appears anxious and diaphoretic.,"BP: 140/90, HR: 110, RR: 24","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Obtain a lumbar puncture
+2). Administer prescribed antibiotics
+3). Implement seizure precautions
+4). Monitor neurological status
+5). Educate on the importance of completing antibiotic therapy","
+1). Obtain a lumbar puncture
+3). Implement seizure precautions
+5). Educate on the importance of completing antibiotic therapy",The focus is on managing chest pain and preventing further cardiac damage. Nitroglycerin and oxygen therapy are essential.,High,60%,15:00 minutes,Adult Health,Cardiac Management,Physiological Integrity,Myocardial infarction,Multiple Choice - Multiple Response,Ensure understanding of acute MI management and interventions.,Manage chest pain,Administer nitroglycerin,Provide oxygen therapy,Monitor cardiac status,Prepare for ICU transfer,multiple_choice_multiple_response
+The nurse is caring for a 22-year-old client with a newly diagnosed seizure disorder.,The client experienced a tonic-clonic seizure lasting 2 minutes. The client is now drowsy but arousable.,"BP: 120/75, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed nitroglycerin
+2). Monitor cardiac rhythm
+3). Provide oxygen therapy
+4). Reassure the client
+5). Prepare for possible transfer to the ICU","2). Monitor cardiac rhythm
+3). Provide oxygen therapy
+5). Prepare for possible transfer to the ICU",The focus is on ensuring safety and airway patency post-seizure. Administering medication and educating on precautions are crucial.,Moderate,70%,12:00 minutes,Neurology,Seizure Management,Physiological Integrity,Seizure disorder,Multiple Choice - Multiple Response,Ensure understanding of immediate and long-term seizure management.,Post-seizure care,Ensure airway patency,Monitor neurological status,Administer anticonvulsants,Educate on precautions,multiple_choice_multiple_response
+The nurse is caring for a 60-year-old client post-operative for hip replacement.,The client reports moderate pain and has limited mobility. The surgical site is clean with minimal drainage.,"BP: 130/80, HR: 90, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Ensure airway patency
+2). Place the client in a side-lying position
+3). Administer prescribed anticonvulsants
+4). Monitor neurological status
+5). Educate on seizure precautions","1). Ensure airway patency
+2). Place the client in a side-lying position
+3). Administer prescribed anticonvulsants",The focus is on managing pain and preventing post-operative complications. Pain medication and early ambulation are crucial.,Moderate,75%,12:00 minutes,Adult Health,Post-Operative Care,Physiological Integrity,Hip replacement,Multiple Choice - Multiple Response,Ensure understanding of post-operative care and complication prevention.,Post-operative care,Administer pain medications,Encourage ambulation,Monitor for complications,Educate on exercises,multiple_choice_multiple_response
+The nurse is caring for a 50-year-old client with acute pancreatitis.,"The client reports severe abdominal pain radiating to the back, nausea, and vomiting. The abdomen is tender to palpation.","BP: 130/85, HR: 95, RR: 22, Temp: 38°C","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed pain medication
+2). Encourage early ambulation
+3). Monitor for signs of infection
+4). Educate on post-operative exercises
+5). Assess for deep vein thrombosis","2). Encourage early ambulation
+3). Monitor for signs of infection
+5). Assess for deep vein thrombosis",The focus is on managing pain and preventing complications. Keeping the client NPO and providing IV fluids are essential.,Moderate,72%,12:00 minutes,Adult Health,Gastrointestinal Management,Physiological Integrity,Acute pancreatitis,Multiple Choice - Multiple Response,Ensure understanding of acute pancreatitis management and prevention.,Manage pancreatitis,Administer pain medication,Keep client NPO,Monitor for infection,Provide IV fluids,multiple_choice_multiple_response
+The nurse is caring for a 45-year-old client with newly diagnosed multiple myeloma.,The client reports bone pain and fatigue. Blood tests show hypercalcemia and anemia.,"BP: 120/80, HR: 90, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Keep the client NPO
+2). Administer prescribed analgesics
+3). Monitor for signs of infection
+4). Provide intravenous fluids
+5). Educate on the importance of avoiding alcohol","1). Keep the client NPO
+2). Administer prescribed analgesics
+3). Monitor for signs of infection
+5). Educate on the importance of avoiding alcohol",The focus is on managing symptoms and preventing complications. Pain management and monitoring calcium levels are essential.,Moderate,68%,12:00 minutes,Adult Health,Oncology Management,Physiological Integrity,Multiple myeloma,Multiple Choice - Multiple Response,Ensure understanding of multiple myeloma management and symptom control.,Multiple myeloma management,Administer analgesics,Monitor calcium levels,Educate on disease,Provide supportive care,multiple_choice_multiple_response
+The nurse is caring for a 30-year-old client with suspected appendicitis.,"The client reports severe abdominal pain in the lower right quadrant, nausea, and vomiting. The abdomen is tender to palpation with rebound tenderness.","BP: 130/85, HR: 100, RR: 22, Temp: 38.3°C","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed analgesics
+2). Monitor calcium levels
+3). Provide supportive care for anemia
+4). Educate on disease progression
+5). Encourage hydration","1). Administer prescribed analgesics
+2). Monitor calcium levels
+4). Educate on disease progression
+5). Encourage hydration
+",The focus is on preparing for surgery and managing pain. Keeping the client NPO is essential for surgery preparation.,Moderate,78%,8:00 minutes,Adult Health,Gastrointestinal Management,Physiological Integrity,Appendicitis,Multiple Choice - Multiple Response,Ensure understanding of preoperative and postoperative care for appendicitis.,Prepare for surgery,Pain management is key,Keep client NPO,Monitor for complications,Reassure and educate the client,multiple_choice_multiple_response
+The nurse is caring for a 5-year-old child with asthma.,The child has been experiencing increased wheezing and shortness of breath. The child’s mother reports frequent nighttime coughing.,"BP: 100/60, HR: 110, RR: 28, O2 Sat: 92% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Keep the client NPO
+2). Prepare for possible surgery
+3). Administer prescribed analgesics
+4). Monitor for signs of perforation
+5). Educate on postoperative care","1). Keep the client NPO
+2). Prepare for possible surgery
+4). Monitor for signs of perforation
+5). Educate on postoperative care",The focus is on improving breathing and preventing asthma attacks. Bronchodilators and education on triggers are crucial.,Moderate,75%,12:00 minutes,Pediatrics,Asthma Management,Health Promotion and Maintenance,Pediatric asthma,Multiple Choice - Multiple Response,Ensure understanding of pediatric asthma management and prevention.,Improve asthma symptoms,Provide bronchodilators,Use oxygen therapy,Educate on triggers,Monitor respiratory status,multiple_choice_multiple_response
+The nurse is caring for a 35-year-old client with suspected urinary tract infection (UTI).,"The client reports dysuria, urgency, and lower abdominal pain. The urine appears cloudy with a foul odor.","BP: 120/80, HR: 85, RR: 18, Temp: 38°C","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed bronchodilators
+2). Monitor respiratory status
+3). Educate on asthma triggers
+4). Provide a peak flow meter
+5). Ensure adherence to medication regimen","1). Administer prescribed bronchodilators
+2). Monitor respiratory status
+3). Educate on asthma triggers
+4). Provide a peak flow meter",The focus is on diagnosing and treating the UTI. Antibiotics and fluid intake are essential.,Easy,80%,10:00 minutes,Adult Health,Renal Management,Physiological Integrity,Urinary tract infection,Multiple Choice - Multiple Response,Ensure understanding of UTI management and prevention.,Diagnose and treat UTI,Provide antibiotics,Encourage fluid intake,Educate on hygiene,Monitor for complications,multiple_choice_multiple_response
+The nurse is caring for a 72-year-old client with osteoarthritis.,"The client reports joint pain and stiffness, particularly in the knees and hips. The client is on NSAIDs and physical therapy.","BP: 130/80, HR: 85, RR: 18","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Obtain a urine sample for culture and sensitivity
+2). Administer prescribed antibiotics
+3). Encourage increased fluid intake
+4). Educate on proper perineal hygiene
+5). Monitor for signs of pyelonephritis","1). Obtain a urine sample for culture and sensitivity
+2). Administer prescribed antibiotics
+4). Educate on proper perineal hygiene
+5). Monitor for signs of pyelonephritis",The focus is on managing pain and maintaining joint function. Pain medications and low-impact exercises are essential.,Moderate,70%,10:00 minutes,Adult Health,Musculoskeletal Management,Physiological Integrity,Osteoarthritis,Multiple Choice - Multiple Response,Ensure understanding of osteoarthritis management and joint protection.,Pain management,Administer medications,Educate on joint protection,Encourage low-impact exercise,Monitor for side effects,multiple_choice_multiple_response
+The nurse is caring for a 62-year-old client with chronic heart failure.,"The client reports fatigue, shortness of breath, and swollen ankles. The client has been taking diuretics and ACE inhibitors.","BP: 135/85, HR: 88, RR: 22, O2 Sat: 91% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed pain medications
+2). Encourage low-impact exercises
+3). Educate on weight management
+4). Monitor for side effects of medications
+5). Assess for joint function","1). Administer prescribed pain medications
+2). Encourage low-impact exercises
+3). Educate on weight management
+5). Assess for joint function",The focus is on managing symptoms and preventing complications. Medication adherence and monitoring fluid status are essential.,Moderate,72%,12:00 minutes,Adult Health,Cardiac Management,Physiological Integrity,Chronic heart failure,Multiple Choice - Multiple Response,Ensure understanding of chronic heart failure management and lifestyle modifications.,Manage heart failure,Administer medications,Educate on low-sodium diet,Monitor fluid intake,Provide support,multiple_choice_multiple_response
+The nurse is caring for a 30-year-old female client with Graves' disease.,"The client reports weight loss, heat intolerance, and palpitations. The client appears anxious and has a noticeable goiter.","BP: 120/80, HR: 110, RR: 20","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Monitor fluid intake and output
+2). Educate on low-sodium diet
+3). Administer prescribed medications
+4). Encourage daily weight monitoring
+5). Assess for signs of worsening heart failure","1). Monitor fluid intake and output
+2). Educate on low-sodium diet
+3). Administer prescribed medications
+4). Encourage daily weight monitoring",The focus is on managing symptoms and preventing complications. Medication adherence and monitoring thyroid function are essential.,Moderate,70%,12:00 minutes,Adult Health,Endocrine Management,Physiological Integrity,Graves' disease,Multiple Choice - Multiple Response,Ensure understanding of Graves' disease management and complication prevention.,Manage symptoms,Monitor fluid intake,Administer medications,Encourage weight monitoring,Educate on complications,multiple_choice_multiple_response
+The nurse is caring for a 45-year-old client with suspected pulmonary embolism (PE).,The client reports sudden onset of chest pain and shortness of breath. The client appears anxious and is tachypneic.,"BP: 130/85, HR: 100, RR: 28, O2 Sat: 89% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed antithyroid medications
+2). Monitor thyroid function tests
+3). Educate on the importance of medication adherence
+4). Provide a calm environment
+5). Assess for signs of thyroid storm","1). Administer prescribed antithyroid medications
+2). Monitor thyroid function tests
+3). Educate on the importance of medication adherence
+5). Assess for signs of thyroid storm",The focus is on managing symptoms and preventing complications. Anticoagulants and oxygen therapy are essential.,High,65%,15:00 minutes,Adult Health,Vascular Management,Physiological Integrity,Pulmonary embolism,Multiple Choice - Multiple Response,Ensure understanding of pulmonary embolism management and prevention.,Manage PE symptoms,Administer anticoagulants,Oxygen therapy needed,Monitor respiratory status,Prepare for imaging,multiple_choice_multiple_response
+The nurse is caring for a 60-year-old client with chronic obstructive pulmonary disease (COPD).,The client reports increased shortness of breath and a productive cough. The client has a 30-year history of smoking.,"BP: 130/85, HR: 95, RR: 28, O2 Sat: 88% on room air","Based on the client assessment, the nurse should plan to take which actions? Select all that apply.","1). Administer prescribed anticoagulants
+2). Monitor respiratory status
+3). Provide oxygen therapy
+4). Prepare for possible imaging studies
+5). Educate on the importance of medication adherence","1). Administer prescribed anticoagulants
+2). Monitor respiratory status
+3). Provide oxygen therapy
+5). Educate on the importance of medication adherence",The focus is on improving oxygenation and managing COPD symptoms. Bronchodilators and smoking cessation are essential.,Moderate,70%,12:00 minutes,Adult Health,Respiratory Management,Health Promotion and Maintenance,COPD management,Multiple Choice - Multiple Response,Ensure understanding of COPD management and lifestyle modifications.,Improve COPD symptoms,Use bronchodilators,Provide oxygen therapy,Educate on smoking cessation,Monitor closely,multiple_choice_multiple_response

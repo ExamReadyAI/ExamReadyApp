@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Convert CSV and Import to Firebase</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script>
+    // Initialize Firebase
+    const firebaseConfig = {
+        apiKey: "AIzaSyBj3EmeODzfrJYOV7XMepP3v1ZWgc767i8",
+        authDomain: "openai-75c43.firebaseapp.com",
+        projectId: "openai-75c43",
+        storageBucket: "openai-75c43.appspot.com",
+        messagingSenderId: "972256077227",
+        appId: "1:972256077227:web:2735c614bc712d5f529eee",
+        measurementId: "G-BCF1BM6S5P"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+
+    // Initialize Firestore
+    const db = firebase.firestore();
+
+    // Function to convert CSV to JSON and import to Firebase
+    function convertAndImportCSV(csvFile) {
+      $.get(csvFile, function(data) {
+        // Parse CSV data
+        var parsedData = Papa.parse(data, { header: true });
+
+        // Convert parsed CSV data to JSON
+        var jsonData = parsedData.data;
+
+        // Import JSON data to Firebase
+        importDataToFirebase(jsonData);
+      });
+    }
+
+    // Function to import JSON data to Firebase
+    function importDataToFirebase(jsonData) {
+      var batch = db.batch();
+
+      jsonData.forEach(function(doc) {
+        var docRef = db.collection("questions_collections").doc(); // AutoID for documents
+        batch.set(docRef, doc);
+      });
+
+      // Commit the batch
+      batch.commit().then(function() {
+        console.log("Data imported to Firebase successfully!");
+      }).catch(function(error) {
+        console.error("Error importing data: ", error);
+      });
+    }
+
+    // Example usage
+    $(document).ready(function() {
+      // Replace 'yourfile.csv' with your actual CSV file path
+      var csvFilePath = 'close_drop_down_2.csv';
+
+      // Call function to convert CSV to JSON and import to Firebase
+      convertAndImportCSV(csvFilePath);
+    });
+  </script>
+</head>
+<body>
+  <!-- HTML content -->
+</body>
+</html>
