@@ -10,6 +10,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+
     <style>
         .py-3 {
             background-color: #185B88;
@@ -40,6 +44,15 @@
             <div class="col-md-4 text-center">
                 <h5>Exam No.</h5>
                 <p id="category">Category</p>
+
+                <select id="question_template">
+                    <option>fill_in_the_blank</option>
+                    <option>multi_response_select_n</option>
+                    <option>multi_response_select_all</option>
+                    <option>drop_down_table</option>
+                    <option>drag_and_drop_cloze</option>
+                    <option>order_sequence</option>
+                </select>
             </div>
             <div class="col-md-4 text-right">
                 <p><i class="fas fa-stopwatch"></i> Time Elapsed: <span id="timer">00:00:00</span></p>
@@ -72,11 +85,19 @@
 <div class="mt-4">
     <!-- Body content goes here -->
      
+    <div class="row">
+        <div class="col-md-10 offset-md-1">
+            
+            <div id="question-template-box">
+                <div class="d-flex align-items-center justify-content-center" style="height:400px ;"><img src="assets/img/loader.gif" alt=""></div>
+            </div>
     
-    <div id="question-template-box">
-        <div class="d-flex align-items-center justify-content-center" style="height:400px ;"><img src="assets/img/loader.gif" alt=""></div>
-    </div>
+            <div id="answerbtn" class="text-center mt-4"><br/>
+                <button class="btn btn-primary mt-2" id="submitAnswer">Submit</button>
+            </div>
 
+        </div>
+    </div>
 
 
     <!-- End of Test Message (initially hidden) -->
@@ -172,9 +193,6 @@
         </div>
     </div>
 </div>
-
-    <!-- Include jQuery -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 
     <!-- Include Bootstrap JS (popper.js is required for popovers) -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
