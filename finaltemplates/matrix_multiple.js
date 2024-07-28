@@ -4,7 +4,7 @@ function load_matrix_multiple_response(randomQuestions,index){
         <div class="col-md-6" id="exampause1">
             <p style="font-weight: bold;" id="text_instruction">The following scenario applies to the next 1 items</p>
             <p id="data_instruction"></p>
-            <p>item 1 of 1</p>
+            <p class="itemsof">item 1 of 1</p>
             <ul class="nav nav-tabs mt-4" id="myTab" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" id="hpi-tab" data-toggle="tab" href="#notes" role="tab" aria-controls="hpi" aria-selected="true">Triage Note</a>
@@ -18,7 +18,7 @@ function load_matrix_multiple_response(randomQuestions,index){
         </div>
         <div class="col-md-6 vertical-line" id="exampause2">
             <div class="right-column">
-                <p style="font-weight: bold;"><i class="fa fa-chevron-right"></i> For each client finding below, click to specify if the finding is consistent with the disease process of hemothorax or asthma attack. Each finding may support more than one (1) disease process.</p>
+                <p style="font-weight: bold;"><img src="assets/img/icons/solid/Vector.png"> <span class="rightquestion">For each client finding below, click to specify if the finding is consistent with the disease process of hemothorax or asthma attack. Each finding may support more than one (1) disease process.</span></p>
                 <div id="matrix_question">
                     <!-- Placeholder for question text with matrix template -->
                     <table class="table table-bordered table-no-vertical-lines">
@@ -44,7 +44,7 @@ function load_matrix_multiple_response(randomQuestions,index){
         const nursesnote = questionData['triage_note'];
         const clientfindings = questionData.client_findings;
         const questioNumber = index + 1;
-        const displayText = questioNumber + ". The following scenario applies to the next 1 items";
+        const displayText = "The following scenario applies to the next 1 items";
         
         $('#text_instruction').text(displayText);
         $('#data_nursesnote').text(nursesnote);

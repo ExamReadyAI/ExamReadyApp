@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <style>
+.boxes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto auto auto;
+    grid-gap: 10px; /* Adjust as needed for spacing between boxes */
+  }
+  
+  .box {
+    border: 1px solid #000;
+    padding: 10px; /* Adjust as needed for padding inside boxes */
+    text-align: center;
+  }
+  
+  #box3 {
+    grid-column: 1 / span 2; /* Span across both columns */
+    justify-self: center; /* Center horizontally */
+  }
+        </style>
+    </head>
+    <body>
+
+        <div class="boxes">
+            <div class="box">Actions to Take</div>
+            <div class="box">Parameters to Monitor</div>
+            <div class="box" id="box3">Potential Conditions</div>
+            <div class="box">Actions to Take</div>
+            <div class="box">Parameters to Monitor</div>
+          </div>
+        <!-- Include Bootstrap JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>

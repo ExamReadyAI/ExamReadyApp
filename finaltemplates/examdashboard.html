@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="An impressive and flawless site template that includes various UI elements and countless features, attractive ready-made blocks and rich pages, basically everything you need to create a unique and professional website.">
+  <meta name="keywords" content="bootstrap 5, business, corporate, creative, gulp, marketing, minimal, modern, multipurpose, one page, responsive, saas, sass, seo, startup, html5 template, site template">
+  <meta name="author" content="elemis">
+  <title>Exam Dashboard &mdash; ExamReady, Your ultimate destination for comprehensive exam preparation.</title>
+  <link rel="shortcut icon" href="./assets/img/favicon.png">
+  <link rel="stylesheet" href="./assets/css/plugins.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/examready.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="content-wrapper">
+    
+    <section class="wrapper bg-light vh-100 d-flex align-items-center">
+      <div class="w-100">
+        
+          <div class="d-md-flex flex-column vh-100">
+
+            <div>
+              <div class="exam-header d-md-flex justify-content-between align-items-center p-4">
+                <div class="d-md-flex">
+                  <img src="./assets/img/examready-logo.png" class="me-4" height="54" alt="">
+                  <div class="">
+                    <p class="mb-0 fw-bold">Jane Doe</p>
+                    <p class="mb-0">NCLEX-RN Practice Exam 1 | Exam ID: 123456 | QID: 123456</p>
+                  </div>
+                </div>
+                <div>
+                  <p class="mb-0"><i class="uil uil-clock"></i> Time Elapsed: <span id="timer">00:00:01</span></p>
+                  <p class="mb-0"><i class="uil uil-question-circle"></i> Question: <span id="questionProgress">2 of 15</span></p>
+                </div>
+              </div>
+              <div class="exam-sub-header d-md-flex justify-content-between align-items-center p-4">
+                <ul class="sub-header-menu list-inline ">
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-calculator"></i> Calculator</a></li>
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-notes"></i> Notes</a></li>
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-lightbulb-alt"></i> Hint</a></li>
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-bookmark"></i> Mark for Review</a></li>
+                </ul>
+                <ul class="sub-header-menu list-inline ">
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-corner-down-right"></i> Shorcuts</a></li>
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-setting"></i> Settings</a></li>
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-comment-alt-dots"></i> Send Feedback</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="flex-grow-1 px-4 pt-5 pb-5" style="border:0px solid red;">
+
+              <div>
+
+                  <!--- ADD QUESTIONS HERE -->
+                  <div class="row" id="question">           
+                    
+                  </div>
+                  <!--- ADD QUESTIONS HERE -->
+
+              </div>
+
+            </div>
+
+            <div class="exam-footer p-4">
+              <div class="d-flex justify-content-between align-items-center">
+                <ul class="sub-header-menu list-inline ">
+                  <li class="list-inline-item" data-toggle="modal" data-target="#endModal"><a href="#"><i class="uil uil-cancel"></i> Exit</a></li>
+                  <li class="list-inline-item" data-toggle="modal" data-target="#pauseModal"><a href="#"><i class="uil uil-pause"></i> Pause</a></li>
+                </ul>
+                <ul class="sub-header-menu list-inline ">
+                  <li class="list-inline-item"><a href="#"><i class="uil uil-clipboard-alt"></i> Navigate</a></li>
+                  <li class="list-inline-item" id="previousButton"><a href="#"><i class="uil uil-arrow-left"></i> Back</a></li>
+                  <li class="list-inline-item" id="nextButton"><a class="list-inline-item"><a href="#"><i class="uil uil-arrow-right"></i> Next</a></li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+
+      </div>
+      <!-- /.container -->
+    </section>
+    <!-- /section -->
+
+  </div>
+  <!-- /.content-wrapper -->
+  
+  <div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+    </svg>
+  </div>
+
+
+  <!-- Modal for Pause -->
+<div class="modal fade" id="pauseModal" tabindex="-1" role="dialog" aria-labelledby="pauseModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title text-center" id="pauseModalLabel"><i class="fas fa-info-circle mr-2"></i> Are you sure you want to pause this test?</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p class="text-center font-weight-bold">You can resume it later.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary" id="pauseExamModal">Pause</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal for End -->
+<div class="modal fade" id="endModal" tabindex="-1" role="dialog" aria-labelledby="endModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title text-center" id="endModalLabel"><i class="fas fa-info-circle mr-2"></i> Do you want to end this exam?</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p class="text-center font-weight-bold">You have chosen to end the test.</p>
+                <p class="text-center font-weight-bold">Once you end the test; you can not resume and any</p>
+                <p class="text-center font-weight-bold">incomplete questions will be OMITTED.</p>
+                <p class="text-center font-weight-bold">If you have unattempted questions, you can pause and</p>
+                <p class="text-center font-weight-bold">resume later. Please end the test only if you have</p>
+                <p class="text-center font-weight-bold">completed the test.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Resume Test</button>
+                <button type="button" class="btn btn-primary" id="endTestBtn">End Test</button>
+            </div>
+        </div>
+    </div>
+</div>
+  <script src="./assets/js/plugins.js"></script>
+  <script src="./assets/js/theme.js"></script>
+  <!-- Include jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
+<!-- Include Bootstrap JS (popper.js is required for popovers) -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+
+<!-- Include Bootstrap JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+<script src="main.js"></script>
+<script src="single_response.js"></script>
+<script src="matrix.js"></script>
+<script src="tabular.js"></script>
+<script src="dragdrop.js"></script>
+<script src="matrix_grouping.js"></script>
+<script src="matrix_multiple.js"></script>
+<script src="highlight_text.js"></script>
+<script src="highlight_table.js"></script>
+<script src="fill_in_the_blanks.js"></script>
+<script src="multi_response_select_n.js"></script>
+<script src="multi_response_select_all.js"></script>
+<script src="drag_and_drop_cloze.js"></script>
+<script src="drop_down_table.js"></script>
+<script src="order_sequence.js"></script>
+</body>
+
+</html>

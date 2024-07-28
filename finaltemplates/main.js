@@ -68,8 +68,9 @@ function displayQuestion(index) {
     const questionProgressText = questioNumber + " of " + randomQuestions.length;
     $('#questionProgress').text(questionProgressText);
     $('#category').text(category);
-    console.log(randomQuestions[index].template_type)
-    switch (randomQuestions[index].template_type) {
+    console.log(randomQuestions[index])
+    const template_type = randomQuestions[index].template_type;
+    switch (template_type) {
         case 'multiple_choice':
             loadMultipleSingleResponseTemplate(randomQuestions[index],index);
             break;

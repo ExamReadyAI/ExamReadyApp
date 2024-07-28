@@ -4,7 +4,7 @@ function load_cloze_dropdown(randomQuestions,index){
         <div class="col-md-6" id="exampause1">
             <p style="font-weight: bold;" id="text_instruction"></p>
             <p id="data_instruction"></p>
-            <p>item 1 of 1</p>
+            <p class="itemsof">item 1 of 1</p>
             <ul class="nav nav-tabs mt-4" id="myTab" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" id="hpi-tab" data-toggle="tab" href="#notes" role="tab" aria-controls="hpi" aria-selected="true">Nurse's Note</a>
@@ -30,7 +30,7 @@ function load_cloze_dropdown(randomQuestions,index){
         </div>
         <div class="col-md-6 vertical-line" id="exampause2">
             <div class="right-column">
-                <p><i class="fa fa-chevron-right"></i> Complete the following sentences by choosing from the list of options</p>
+                <p><img src="assets/img/icons/solid/Vector.png"><span class="rightquestion"> Complete the following sentences by choosing from the list of options </span></p>
                 <div id="dropdown_question">
                     <!-- Placeholder for question text with dropdowns dynamically inserted -->
                 </div>
@@ -53,7 +53,7 @@ function load_cloze_dropdown(randomQuestions,index){
         const explanation = questionData['explanation'];
         const questionText = constructQuestionText(questionData);
         const questionNumber = index + 1;
-        const displayText = questionNumber + ". The following scenario applies to the next 1 items";
+        const displayText = "The following scenario applies to the next 1 items";
         $('#data_nursesnote').text(nursesnote);
         $('#data_vitalsigns').text(vitalsigns);
         $('#data_orders').text(orders);

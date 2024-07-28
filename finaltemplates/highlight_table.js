@@ -3,12 +3,12 @@ function load_highlight_table(randomQuestions,index){
     const questionHtml = ` <div class="row mb-3">
             <div class="col">
                 <p id="question_prompt"></p>
-                <p class="click-to-specify"><span class="mr-2">&#8594;</span>Click to specify findings.</p>
+                <p class="click-to-specify"><img src="assets/img/icons/solid/Vector.png"> <span class="rightquestion">Click to specify findings.</span></p>
             </div>
         </div>
         <div class="row">
             <div class="col">
-                <table class="table table-bordered">
+                <table class="table table-bordered table-no-vertical-lines">
                     <thead>
                         <tr>
                             <th style="width: 25%;">Assessment</th>
@@ -31,7 +31,7 @@ function load_highlight_table(randomQuestions,index){
         const questioNumber = index + 1;
         const displayText = questioNumber + ". " + questionprompt;
         // const questionText = constructQuestionText(questionData);
-        $('#question_prompt').text(displayText);
+        $('#question_prompt').text(questionprompt);
 
         createHighlightTableQuestion(questionData);
 

@@ -1,0 +1,236 @@
+        /* Custom CSS styles */
+        .py-3 {
+            background-color: #185B88;
+            color: white;
+        }
+        .py-2 {
+            background-color: #3AB9E2;
+            color: white;
+        }
+        .btn-link {
+            text-decoration: none;
+            color: white;
+        }
+        .tab-content {
+            padding: 20px;
+        }
+        .vertical-line {
+            border-left: 1px solid #ccc;
+            height: 100%; /* Extend line to full viewport height */
+            overflow-y: auto; /* Enable vertical scrolling if content exceeds height */
+        }
+        .right-column {
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            height: 100%; /* Ensure the content inside takes full height */
+            width: 100%;
+        }
+    
+    /* .boxes {
+        width: 100%;
+      } */
+      
+      .rows {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin: 5px;
+        margin-bottom: 10px;
+      }
+      
+      /* .box {
+        border: 1px solid #000;
+        padding: 20px;
+        margin: 10px;
+        text-align: center;
+      }
+      
+      
+      
+      #box3 {
+        text-align: center;
+        background-color: #0C416C;
+        color: white;
+      } */
+      
+        .choices {
+          display: flex;
+          flex-wrap: wrap;
+        }
+        
+        .choice {
+          width: 80px;
+          height: 40px;
+          margin: 5px;
+          background-color: #f0f0f0;
+          border: 1px solid #999;
+          text-align: center;
+          line-height: 40px;
+          cursor: pointer;
+        }
+        .highlight {
+          background-color: yellow;
+        }
+        input[type="radio"] {
+            -webkit-appearance: radio !important; /* Restore the default radio button appearance */
+            margin-right: 10px;
+        }
+        input[type="checkbox"] {
+            -webkit-appearance: checkbox !important; /* Restore the default radio button appearance */
+            margin-right: 10px;
+        }
+        #randomQuestion {
+            margin-bottom: 10px;
+            margin-right: 25px;
+        }
+        
+        #optionsContainer {
+            margin-top: 20px;
+            margin-left: 50px; /* Adjust this value to align the options with the question */
+        }
+        /* Add border to the tab content area */
+/* Add border to the tab content area */
+.tab-content {
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 15px;
+    border-radius: 0 0 5px 5px;
+    margin-top: -10px; /* To make sure the border touches the nav-tabs border */
+  }
+  
+  /* Optional: Make sure the border of the nav-tabs aligns well with the content */
+  .nav-tabs {
+    
+  }
+  #myTabContent.mt-3 {
+    margin-top: 0 !important;
+}
+.itemsof {
+    background-color: #C1CEF8;
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 20px;
+    margin-bottom: -10px;
+    font-weight: bold;
+  }
+  .rightquestion{
+    margin-left: 20px;
+  }
+ .vertical-line{
+    width: 50%;
+    border-left: 1px solid #ccc;
+    min-height: 78vh;
+    /* overflow-y: auto; */
+    margin-bottom: -30px;
+    margin-top: -20px;
+    padding-bottom: 30px;
+ }
+   
+ .table-no-vertical-lines tr {
+    border-top: none !important; /* Remove top border of each row */
+    border-bottom: none !important; /* Remove bottom border of each row */
+    border-top: 1px solid #E7EAF0 !important;
+  }
+ .table-no-vertical-lines {
+    border: 1px solid #000000 !important; /* Outer border */
+    border-collapse: collapse; /* Ensure borders don't overlap */
+  }
+  
+  .table-no-vertical-lines th, .table-no-vertical-lines td {
+    border: none !important;
+     /* Outer border */
+  }
+  
+  .table-no-vertical-lines thead th {
+    background-color: #F1F4F8 !important; /* Header background color */
+    border-bottom: none !important; /* Remove bottom border of the header */
+    border-top: 1px solid #000000 !important;
+  }
+  
+  .table-no-vertical-lines tbody tr:nth-child(odd) {
+    background-color: #ffffff !important; /* Color for 1st, 3rd, etc. rows */
+  }
+  
+  .table-no-vertical-lines tbody tr:nth-child(even) {
+    background-color: #FBFDFF !important; /* Color for 2nd, 4th, etc. rows */
+  }
+  .boxes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto auto auto;
+    grid-gap: 10px; /* Adjust as needed for spacing between boxes */
+    margin-bottom: 10px;
+  }
+  
+  .box {
+    border: 1px dotted #000;
+    padding: 10px; /* Adjust as needed for padding inside boxes */
+    text-align: center;
+  }
+  
+  #box3 {
+    grid-column: 1 / span 2; /* Span across both columns */
+    justify-self: center; /* Center horizontally */
+    border: 1px solid #000;
+    background-color: #0067A9;
+    color: #fff;
+  }
+  .box_data {
+    padding: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 10px;
+    text-align: center;
+    cursor: move;
+    background-color: #fff;
+  }
+
+  .droppable-card{
+    border: 1px solid #000;
+    background-color: #F1F4F8;
+  }
+  .databox{
+    background-color: #fff;
+  }  
+  .centerbox{
+    background-color: #0067A9;
+    color: #fff;
+  }
+  .cards{
+    margin: 5px;
+    margin-bottom: 20px;
+  }
+  .align-middle {
+    vertical-align: middle !important;
+  }
+  #answer-val{
+    border-radius: 25px;
+    padding-left: 15px;
+  }
+  .selectn{
+    margin-top: 20px;
+  }
+  #check-box-multiple-choice{
+    margin-left: 35px;
+  }
+  .mytabs{
+    padding:20px;
+  }
+  .droppable-card-order{
+    border: 1px solid #000;
+    background-color: #F1F4F8;
+  }
+ .contenticon img{
+    margin-right: 15px;
+ }
+ .box_datas {
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: move;
+    background-color: #fff;
+  }
+  #singleresponseicon{
+    margin-right: 25px;
+  }

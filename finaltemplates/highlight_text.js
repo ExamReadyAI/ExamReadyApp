@@ -4,7 +4,7 @@ function load_highlight_text(randomQuestions,index){
         <div class="col-md-6" id="exampause1">
             <p style="font-weight: bold;" id="text_instruction"></p>
             <p id="data_instruction"></p>
-            <p>item 1 of 1</p>
+            <p class="itemsof">item 1 of 1</p>
             <ul class="nav nav-tabs mt-4" id="myTab" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" id="progressnotes-tab" data-toggle="tab" href="#notes" role="tab" aria-controls="hpi" aria-selected="true">Progress Note</a>
@@ -24,7 +24,7 @@ function load_highlight_text(randomQuestions,index){
         </div>
         <div class="col-md-6 vertical-line" id="exampause2">
             <div class="right-column">
-                <p style="font-weight: bold;" id="data_rightsidequestion"><i class="fa fa-chevron-right"></i> </p>
+                <p style="font-weight: bold;" ><img src="assets/img/icons/solid/Vector.png"><span class="rightquestion" id="data_rightsidequestion"></span> </p>
                 <div id="textchoice">
                 </div>
             </div>
@@ -42,7 +42,7 @@ function load_highlight_text(randomQuestions,index){
         const correctanswer = questionData.answer;
         
         const questioNumber = index + 1;
-        const displayText = questioNumber + ". The following scenario applies to the next 1 items";
+        const displayText = "The following scenario applies to the next 1 items";
         const explanation = questionData['explanation'];
         // const questionText = constructQuestionText(questionData);
         $('#data_progressnotes').text(progressnotes);

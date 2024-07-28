@@ -4,7 +4,7 @@ function load_drag_and_drop(randomQuestions,index){
         <div class="col-md-6" id="exampause1">
             <p style="font-weight: bold;" id="text_instruction">The nurse in the obstetrics clinic performs an assessment on a client four weeks postpartum</p>
             <p id="data_instruction"></p>
-            <p>item 1 of 1</p>
+            <p class="itemsof">item 1 of 1</p>
             <ul class="nav nav-tabs mt-4" id="myTab" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" id="hpi-tab" data-toggle="tab" href="#notes" role="tab" aria-controls="hpi" aria-selected="true">Nurse's Note</a>
@@ -20,23 +20,17 @@ function load_drag_and_drop(randomQuestions,index){
             <div class="right-column">
                 <p><i class="fa fa-chevron-right"></i> Complete the diagram by dragging from the choices below to specify what condition the client is most likely experiencing, two (2) actions the nurse should take to address that condition, and two (2) parameters the nurse should monitor to assess the client's progress</p>
               
-                  <div class="boxes">
-                    <div class="row">
-                      <div class="box" id="box1">Actions to Take</div>
-                      <div class="box" id="box2">Parameters to Monitor</div>
-                    </div>
-                    <div class="row">
-                      <div class="box" id="box3">Potential Conditions</div>
-                    </div>
-                    <div class="row">
-                      <div class="box" id="box4">Actions to Take</div>
-                      <div class="box" id="box5">Parameters to Monitor</div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-md-4">
+                 <div class="boxes">
+                  <div class="box">Actions to Take</div>
+                  <div class="box">Parameters to Monitor</div>
+                  <div class="box" id="box3">Potential Conditions</div>
+                  <div class="box">Actions to Take</div>
+                  <div class="box">Parameters to Monitor</div>
+                </div>
+                  <div class="rows">
+                    <div class="col-md-4 cards">
                       <div class="card droppable-card">
-                        <div class="card-header text-center font-weight-bold">
+                        <div class="card-header text-center font-weight-bold databox">
                           Actions to Take
                         </div>
                         <div class="card-body">
@@ -47,9 +41,9 @@ function load_drag_and_drop(randomQuestions,index){
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 cards">
                       <div class="card droppable-card">
-                        <div class="card-header text-center font-weight-bold">
+                        <div class="card-header text-center font-weight-bold centerbox">
                           Potential Conditions
                         </div>
                         <div class="card-body">
@@ -59,9 +53,9 @@ function load_drag_and_drop(randomQuestions,index){
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 cards">
                       <div class="card droppable-card">
-                        <div class="card-header text-center font-weight-bold">
+                        <div class="card-header text-center font-weight-bold databox">
                           Parameters to Monitor
                         </div>
                         <div class="card-body">
@@ -73,16 +67,13 @@ function load_drag_and_drop(randomQuestions,index){
                     </div>
                   </div>
                 
-                <button type="submit" class="btn btn-primary" id="submit_answer_button">Submit Answer</button>
-                <div id="correct_count"></div>
-                <div id="explanation"></div>
             </div>
         </div>
     </div>`;
 
         $questionDiv.html(questionHtml);
         const questionNumber = index + 1;
-        const displayText = questionNumber + ". The following scenario applies to the next 1 items";
+        const displayText = "The following scenario applies to the next 1 items";
         
         $('#text_instruction').text(displayText);
 
